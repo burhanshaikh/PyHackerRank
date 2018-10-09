@@ -7,4 +7,3 @@ while max(arr) == largest:
     arr.remove(largest)
 run = max(arr)
 print(run)
-
